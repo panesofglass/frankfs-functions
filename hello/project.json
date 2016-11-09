@@ -1,0 +1,9 @@
+{
+    "frameworks": {
+        "net46": {
+            "dependencies": {
+                "Frank": "4.0.0-b034"
+            }
+        }
+    }
+}
